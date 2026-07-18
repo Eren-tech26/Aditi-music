@@ -1,4 +1,5 @@
-pyrogram==2.0.106
+pyrofork
 tgcrypto
 yt-dlp
-py-tgcalls==2.2.0
+py-tgcalls
+aiohttp
